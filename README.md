@@ -2,7 +2,6 @@
 <p align="center">I want to work in the information technology (IT) area, with the aim of developing, managing, manipulating, implementing or improving solutions and, for that, using data, logical reasoning and one or more programming languages, always keeping development in mind staff and the search for new technologies. 🤓</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=luisfernandorufato&theme=radical&mode=weekly" />
 
  </div>
  
